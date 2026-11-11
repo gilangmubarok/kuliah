@@ -1,49 +1,33 @@
-# 📚 Arsip Kuliah
+# Kuliah
 
-Repositori ini berisi kumpulan dokumen, materi perkuliahan, tugas, kode program (*coding*), dan presentasi (PPT) selama masa perkuliahan.
+A collection of my university coursework, assignments, and projects as an Information Technology student.
 
-## 📁 Struktur Direktori
-
-Susunan folder di dalam repositori ini dikelompokkan berdasarkan semester dan mata kuliah agar mudah ditemukan:
+## Repository Structure
 
 ```text
-kuliah/
-├── Semester-1/
-│   ├── Nama-Mata-Kuliah-A/
-│   │   ├── Materi-PPT/
-│   │   ├── Tugas/
-│   │   └── Praktikum-Coding/
-│   └── Nama-Mata-Kuliah-B/
-├── Semester-2/
-│   └── ...
-└── Proyek-Akhir/
+Kuliah/
+├── Semester3/
+│   ├── Agama/
+│   ├── Computer Programming 2/
+│   ├── Etika Profesi TI/
+│   ├── GWEP3/
+│   ├── Intelligent System/
+│   ├── Jaringan Komputer/
+│   ├── Management Project/
+│   └── UI-UX2/
+│
+├── Semester 4/
+├── Semester 5/
+└── README.md
 ```
 
-## 📌 Isi Repositori
+## About
 
-* **Materi & Slide (PPT/PDF):** Catatan perkuliahan, modul, dan salindia presentasi dari dosen.
-* **Tugas & Laporan:** Dokumen pengerjaan tugas harian, makalah, dan laporan praktikum.
-* **Kode Program (Coding):** Kumpulan *source code* dari latihan kelas, modul praktikum, hingga proyek mata kuliah.
-* **Referensi Tambahan:** E-book, jurnal, atau catatan ringkasan pribadi untuk persiapan ujian.
+This repository contains my academic work throughout university, organized by semester and course.
 
-## 🚀 Cara Menggunakan
-
-Jika ingin mengunduh atau menjalankan kode program dari repositori ini di komputer lokal, gunakan perintah berikut di terminal:
-
-1. **Clone repositori ini:**
-   ```bash
-   git clone https://github.com
-   ```
-2. **Masuk ke direktori proyek:**
-   ```bash
-   cd kuliah
-   ```
-3. **Buka folder mata kuliah** yang dituju dan jalankan kode sesuai bahasa pemrograman yang digunakan.
-
-## ⚠️ Catatan
-
-* Seluruh kode dan tugas di dalam repositori ini dibuat untuk tujuan dokumentasi dan referensi belajar pribadi.
-* Harap gunakan secara bijak dan hindari tindakan plagiarisme untuk tugas akademik Anda.
+It serves as a personal archive of my learning journey, from coursework and practical assignments to projects.
 
 ---
-*Dibuat dan dikelola oleh **[Nama Anda]** — [Nama Jurusan / Universitas]*
+
+**Gilang Mubarok**  
+Information Technology Student
