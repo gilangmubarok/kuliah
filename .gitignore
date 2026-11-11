@@ -1,0 +1,26 @@
+# Operating System
+.DS_Store
+Thumbs.db
+*~
+
+# Editor & IDE
+.idea/
+*.swp
+*.swo
+
+# Environment & Secrets
+.env
+.env.*
+!.env.example
+
+# Python
+__pycache__/
+*.py[cod]
+.venv/
+venv/
+
+# Node.js
+node_modules/
+
+# Logs
+*.log
